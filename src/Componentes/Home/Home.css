@@ -1,0 +1,26 @@
+.home {
+    justify-content: center;
+    text-align: center;
+    background-color: #bf80ef;
+    margin-top: 104px;
+    padding: 144px;
+    border-radius: 20px;
+    max-width: 40%;
+    position: relative;
+    left: 30%;
+}
+
+.home h3{
+    position: relative;
+    bottom: 120px;
+}
+
+.home button {
+    position: relative;
+    top: 70px;
+}
+
+.home footer {
+    background-color: #89eae2;
+}
+
