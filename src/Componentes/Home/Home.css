@@ -1,7 +1,7 @@
 .home {
     justify-content: center;
     text-align: center;
-    background-color: #bf80ef;
+    background-color: #2f1344;
     margin-top: 104px;
     padding: 144px;
     border-radius: 20px;
@@ -11,8 +11,11 @@
 }
 
 .home h3{
-    position: relative;
+    
     bottom: 120px;
+    margin: auto;
+    color: aquamarine;
+    text-transform: uppercase;
 }
 
 .home button {
@@ -21,6 +24,13 @@
 }
 
 .home footer {
-    background-color: #89eae2;
+    background-color: #19746c;
+}
+
+.Header{
+    padding: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: red;
 }
 

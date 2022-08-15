@@ -1,6 +1,36 @@
 .header {
-    background-color: #86caeb;
-    padding: 16px;
+    background-color: #236e94;
+    height: 100px;
+    padding: 25px;
+    width: 100%;
     color: #1b1f0c;
-    text-align: center;
+    
+}
+
+.menu-bar{
+    background-color: red;
+    
+}
+
+.menu{
+    display: flex;
+}
+
+.nav-bar{
+    width: 450px;
+    height: 100%;
+    background-color: yellow;
+    display: inline-flex;
+    margin: auto;
+    margin-left: 350px;
+}
+
+.nav-bar ul{
+    display: flex;
+  
+}
+
+li{
+ 
+    margin-right: 130px;
 }
